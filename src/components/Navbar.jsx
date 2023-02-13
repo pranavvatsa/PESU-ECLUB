@@ -43,7 +43,7 @@ const Navbar = () => {
                   <Link to='/About'>About</Link>
                 </li>
                 <li className='p-4 border-b border-amber-700 cursor-pointer hover:opacity-60'>
-                  <Link to='/Memebers'>Members</Link>
+                  <Link to='/Members'>Members</Link>
                 </li>
                 <li className='p-4 border-b border-amber-700 cursor-pointer hover:opacity-60'>
                   <Link to='/Contact'>Contact</Link>
